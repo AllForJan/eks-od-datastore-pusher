@@ -54,7 +54,7 @@ Add a line like this:
 
 ## License
 
-This code is BSD licensed, see [LICENSE].
+This code is BSD licensed, see [the license](LICENSE).
 
 ## Contribution
 
